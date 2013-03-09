@@ -1,0 +1,1 @@
+string(166) "UPDATE school_info SET regions_data_id = '24', school_name = 'Basco Central School', latitude = '121.968352', longitude = '20.450513', encoder_id = '1' WHERE id = 872"

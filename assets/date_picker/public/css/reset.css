@@ -1,0 +1,26 @@
+a, blockquote, dd, div, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, img, input, label, li, ol, p, pre, span, table, ul {
+
+    position: relative
+
+}
+
+p, h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: bold }
+
+small
+sup,
+sub     { font-size: 70% }
+
+p small   { display: block; line-height: 1 }
+
+strong, b   { font-weight: bold }
+em, i       { font-style: italic }
+
+/* = CLEARFIX
+----------------------------------------------------------------------------------------------------------------------*/
+.clearfix:before,
+.clearfix:after     { content: "\0020"; display: block; height: 0; visibility: hidden; font-size: 0 }
+.clearfix:after     { clear: both }
+.clearfix           { *zoom: 1 } /* for IE only */
+
+/* = TABLES
+----------------------------------------------------------------------------------------------------------------------*/

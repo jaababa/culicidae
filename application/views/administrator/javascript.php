@@ -1,0 +1,1 @@
+Javascript is required to access the admin account of dengue OL trap <a href='<?php echo base_url();?>index.php/administrator/'>DENGUE</a>
